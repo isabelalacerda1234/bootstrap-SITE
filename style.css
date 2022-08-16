@@ -1,6 +1,6 @@
 header{
     height:150px;
-   
+    width: 100%;
 }
     nav{
     width:100%;
@@ -12,22 +12,28 @@ header{
     }
 
 main{
-    height: 200px;
+    height:400px;
     background-color: aqua;
 }
 
 .imagem-main{
     width:30%;
     height:30%;
+    float: left;
 
 }
 
 main section{
-    height:50px;
+    height: 50px;
+    width:200px;
     background-color: aquamarine;
+
+}
+#paragrafomain{
+ float:left;
 }
 aside{
-    height:200px;
+    height:400px;
     background-color: blue;
 }
 aside section{
