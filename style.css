@@ -1,5 +1,5 @@
 header{
-    height:150px;
+    height:auto;
     width: 100%;
 }
     nav{
@@ -12,11 +12,11 @@ header{
     }
 
 main{
-    height:400px;
-    background-color: aqua;
+    height:auto;
+    
 }
 
-.imagem-main{
+.gatinho{
     width:30%;
     height:30%;
     float: left;
@@ -25,15 +25,15 @@ main{
 
 main section{
     height: 50px;
-    width:200px;
-    background-color: aquamarine;
+    width:auto;
+    
 
 }
 #paragrafomain{
  float:left;
 }
 aside{
-    height:400px;
+    height:auto;
     background-color: blue;
 }
 aside section{
